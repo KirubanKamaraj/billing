@@ -1,4 +1,4 @@
-# BillingSoftware-EIK-B
+# Billing Software
 This software is used to maintain the accounts and printing bill for customers and dealers. It was built-in by python language. You can modify this software to your convenient. You can check out the software images in the Images file.
 
 **EIK_B.py is the main script of the software**. If you want to run this software, it has some steps.
